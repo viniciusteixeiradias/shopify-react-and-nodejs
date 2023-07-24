@@ -17,11 +17,11 @@ Remember to update `.env` with your shop's domain and API token!
 ## Building for production
 
 ```bash
-pnpm run build
+pnpm build
 ```
 
 ## Local development
 
 ```bash
-pnpm run dev
+pnpm dev
 ```
